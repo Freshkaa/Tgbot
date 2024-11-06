@@ -6,9 +6,6 @@ from utils import ConvertionException, CryptoConverter
 bot = telebot.TeleBot(TOKEN)
 
 
-keys = {'евро': 'EUR',
-        'доллар': 'USD',
-        'рубль':'RUB'}
 
 
 
